@@ -1,4 +1,4 @@
-![preview_3](https://github.com/Luccas84/Formul-rio-de-Profissional/assets/167586263/a7fd6f83-2d77-49e8-bdaf-f160c6e3c69e)
+![preview_6](https://github.com/Luccas84/Tela-de-login-do-facebook/assets/167586263/2d4774f1-74f3-4e86-b35b-6de8799f29eb)
 
 # Tela de Login do Facebook
 
